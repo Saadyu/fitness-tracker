@@ -2,7 +2,7 @@
 
 ## 📝 Project Description
 
-fi(t)nesse Tracker is an advanced MATLAB application designed for comprehensive personal health monitoring, featuring three core functionalities:
+fi(t)nesse Tracker is a MATLAB application designed for comprehensive personal health monitoring, featuring three core functionalities:
 
 - **Virtual Trekking Step Tracking**
 - **REM Sleep Monitoring**
